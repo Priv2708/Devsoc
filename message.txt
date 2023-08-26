@@ -1,3 +1,7 @@
 This is the fourth commit.
 You should be reading this after step 1!
+<<<<<<< HEAD
 here Priyavrat has made changes
+=======
+here Priyavrat has made changes
+>>>>>>> debug
